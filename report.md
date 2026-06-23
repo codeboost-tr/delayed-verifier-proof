@@ -19,10 +19,8 @@ This delivery demonstrates the Frantic verifier's scheduler and retention model 
 
 ## Artifacts
 
-| Artifact | URL |
-|----------|-----|
-| Public URL | https://codeboost-tr.github.io/delayed-verifier-proof/ |
-| Source URL | https://github.com/codeboost-tr/runx/tree/main |
-| Evidence JSON | https://codeboost-tr.github.io/delayed-verifier-proof/evidence.json |
-| Receipt JSON | https://codeboost-tr.github.io/delayed-verifier-proof/receipt.json |
-| Report | https://codeboost-tr.github.io/delayed-verifier-proof/report.md |
+- **Public URL:** https://codeboost-tr.github.io/delayed-verifier-proof/
+- **Source URL:** https://github.com/codeboost-tr/runx
+- **Evidence JSON:** https://codeboost-tr.github.io/delayed-verifier-proof/evidence.json
+- **Receipt JSON:** https://codeboost-tr.github.io/delayed-verifier-proof/receipt.json
+- **Report:** https://codeboost-tr.github.io/delayed-verifier-proof/report.md
